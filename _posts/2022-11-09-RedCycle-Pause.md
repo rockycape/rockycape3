@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "RedCycle Pause 9th November 2022"
 categories: recycle
 ---

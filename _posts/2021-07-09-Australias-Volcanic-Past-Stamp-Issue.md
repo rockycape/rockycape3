@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Exploring Australia's Volcanic Past"
 categories: science
 author:

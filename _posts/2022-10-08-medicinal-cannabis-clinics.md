@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "medicinal cannabis prescribing doctors"
 categories: health
 author:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "REDcycle Program - soft plastic including soft plastic bags"
 categories: recycle
 ---

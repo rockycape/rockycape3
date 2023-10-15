@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "CMA ex-boss in court action"
 categories: recycle
 author:

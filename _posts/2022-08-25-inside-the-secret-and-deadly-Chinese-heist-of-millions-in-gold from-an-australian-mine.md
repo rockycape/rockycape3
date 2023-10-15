@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Blood gold"
 categories: poverty
 author:

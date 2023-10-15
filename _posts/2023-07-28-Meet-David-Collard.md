@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Meet David Collard accused of $150m tax fraud"
 categories: tech
 author: 

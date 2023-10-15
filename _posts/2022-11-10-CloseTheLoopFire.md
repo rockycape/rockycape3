@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Close the Loop fire impacts both REDcycle and Cartridges 4 Planet Ark"
 categories: recycle
 author:

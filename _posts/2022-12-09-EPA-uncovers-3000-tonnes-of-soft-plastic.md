@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "EPA uncovers 3000 tonnes of soft plastic in warehouses"
 categories: recycle
 author:

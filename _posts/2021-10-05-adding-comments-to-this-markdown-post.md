@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Adding comments to this markdwon post that don't display when published as a webpage"
 categories: web
 ---

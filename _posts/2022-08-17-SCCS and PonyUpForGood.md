@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SCCS and PonyUpForGood"
 categories: recycling
 author:

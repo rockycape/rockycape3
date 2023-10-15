@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jenny lost 300000 to remote access scam commonwealth bank"
 categories: cybersecurity
 author:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Lightning goes full circle with CMA Ecocycle"
 categories: recycle
 author:

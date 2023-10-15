@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "NAB apologises after seizing funds of customer it identified as a money mule"
 categories: cybersecurity
 author:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Councils’ rubbish deal crumbles over 25-year trash commitment"
 categories: recycle
 ---

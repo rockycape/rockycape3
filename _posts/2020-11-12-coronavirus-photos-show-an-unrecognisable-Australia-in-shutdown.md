@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coronavirus photos show an unrecognisable Australia in shutdown"
 categories: community
 author:

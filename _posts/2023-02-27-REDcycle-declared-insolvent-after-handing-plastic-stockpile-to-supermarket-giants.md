@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "REDcycle declared insolvent after handing plastic stockpile to supermarket giants"
 categories: recycle
 author:

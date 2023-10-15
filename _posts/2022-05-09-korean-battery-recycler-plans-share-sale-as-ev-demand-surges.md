@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Korean Battery Recycler Plans Share Sale as EV Demand Surges"
 categories: recycle
 author:

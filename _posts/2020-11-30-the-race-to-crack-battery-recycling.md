@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Race To Crack Battery Recycling"
 categories: recycle
 author:

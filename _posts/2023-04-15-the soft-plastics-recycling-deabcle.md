@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The soft-plastics recycling debacle"
 categories: recycling
 author:
