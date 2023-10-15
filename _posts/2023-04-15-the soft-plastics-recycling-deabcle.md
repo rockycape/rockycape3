@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The soft-plastics recycling debacle"
-categories: recycling
+categories: recycle
 author:
 - Mike Seccombe
 ---

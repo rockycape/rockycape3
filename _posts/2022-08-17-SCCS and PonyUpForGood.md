@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SCCS and PonyUpForGood"
-categories: recycling
+categories: recycle
 author:
 - Nico Arboleda
 
