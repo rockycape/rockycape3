@@ -2,9 +2,6 @@
 layout: post
 title: "Blood gold"
 categories: poverty
-author:
-- Eryk Bagshaw
-- Edward Adeti
 ---
 
 

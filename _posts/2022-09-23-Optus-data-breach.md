@@ -2,8 +2,6 @@
 layout: post
 title: "Optus data breach"
 categories: cybersecurity
-author:
-- Andrew Greene
 ---
 
 

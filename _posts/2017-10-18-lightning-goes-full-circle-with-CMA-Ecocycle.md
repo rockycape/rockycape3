@@ -2,8 +2,6 @@
 layout: post
 title: "Lightning goes full circle with CMA Ecocycle"
 categories: recycle
-author:
-- Waste Management Review
 ---
 
 ![](https://secure.gravatar.com/avatar/930f8c741de7876b70444153e3905dcf?s=50&r=g)[WASTE MANAGEMENT REVIEW](https://wastemanagementreview.com.au/author/pcm-annmarie-unwin/ "View all posts by Waste Management Review")October 18, 2017, 8:54 AM

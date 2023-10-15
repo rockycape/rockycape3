@@ -3,8 +3,6 @@ layout: post
 title: "Coronacast - A lot of little kids are getting COVID. Why?"
 categories: vaccination
 author:
-- Norman Swan
-- Tegan Taylor
 ---
 
 

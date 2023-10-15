@@ -2,8 +2,6 @@
 layout: post
 title: "Korean battery recycler invests millions in US hub"
 categories: recycle
-author:
-- Kirstin Linnenkoper
 ---
 
 ![Company ceo Yi Kang-Myung is eager to take responsible battery recycling to new markets.](https://recyclinginternational.com/wp-content/uploads/2022/08/Yi-Kang-Myung-1024x686.jpg)

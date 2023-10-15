@@ -2,8 +2,6 @@
 layout: post
 title: "Car & Home Battery Recycling"
 categories: recycle
-author:
-- Emilia Terzon
 ---
 
 **Electric cars and home batteries are already posing a waste problem in Australia. Here's why**

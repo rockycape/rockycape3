@@ -2,8 +2,6 @@
 layout: post
 title: "Exploring Australia's Volcanic Past"
 categories: science
-author:
-- Auspost Philatelic Team
 ---
 
 -   09 JULY 2021

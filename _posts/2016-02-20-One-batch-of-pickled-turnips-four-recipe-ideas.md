@@ -2,8 +2,6 @@
 layout: post
 title: "One batch of pickled turnips; four recipe ideas"
 categories: recipe
-author:
-- Tom Hunt
 ---
 
 

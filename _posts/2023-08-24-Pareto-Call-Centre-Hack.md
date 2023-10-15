@@ -2,8 +2,6 @@
 layout: post
 title: "Pareto Call Centre hack"
 categories: cybersecurity
-author:
-- Sarah Richards
 ---
 
 

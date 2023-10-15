@@ -2,8 +2,6 @@
 layout: post
 title: "medicinal cannabis prescribing doctors"
 categories: health
-author:
-- Matilda Marozzi
 ---
 
 [Background Briefing](https://www.abc.net.au/radionational/programs/backgroundbriefing/)

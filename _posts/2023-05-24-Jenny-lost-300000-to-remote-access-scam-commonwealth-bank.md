@@ -2,9 +2,6 @@
 layout: post
 title: "Jenny lost 300000 to remote access scam commonwealth bank"
 categories: cybersecurity
-author:
-- Michael Atkin
-- Loretta Florance
 ---
 
 [Link to 7.30 report video](https://www.abc.net.au/news/2023-05-24/money-mules-and-their-integral-role-in-laundering/102388932)
