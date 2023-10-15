@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "SCCS and PonyUpForGood"
-categories: recycle
+categories: recycling
+author:
+- Nico Arboleda
+
 ---
 
 Melbourne's Southern Cross Computer Systems donates 150,000 meals, funded by recycled tech

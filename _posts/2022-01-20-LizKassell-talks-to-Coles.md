@@ -2,6 +2,8 @@
 layout: post
 title: "REDCycle's Liz Kassell talks to Coles"
 categories: recycle
+author:
+- Coles
 ---
 
 (original article)[https://colescareers.com.au/au/en/blogarticle/the-new-life-of-your-soft-plastic]  

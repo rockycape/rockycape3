@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "The soft-plastics recycling debacle"
-categories: recycle
+categories: recycling
+author:
+- Mike Seccombe
 ---
 
 https://www.thesaturdaypaper.com.au/news/environment/2023/04/15/the-soft-plastics-recycling-debacle#hrd

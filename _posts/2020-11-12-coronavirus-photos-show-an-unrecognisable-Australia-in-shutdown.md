@@ -2,6 +2,8 @@
 layout: post
 title: "Coronavirus photos show an unrecognisable Australia in shutdown"
 categories: community
+author:
+- Margaret Burin
 ---
 
 Thursday 12 Nov 2020 at 5:20pm
