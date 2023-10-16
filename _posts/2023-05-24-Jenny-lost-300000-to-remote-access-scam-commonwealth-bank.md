@@ -15,19 +15,10 @@ author:
 
  / By national consumer affairs reporter [Michael Atkin](https://www.abc.net.au/news/michael-atkin/5778984) and the Specialist Reporting Team's [Loretta Florance](https://www.abc.net.au/news/loretta-florance/5751762)
 
-Posted Yesterday at 6:00am, updated 16h ago16 hours ago
 
 ![Jenny, dressed in a green and blue knitted top, stands in the kitchen and holds a mobile phone to her ear.](https://live-production.wcms.abc-cdn.net.au/02c24ace7329e2910be6c0b33d856366?impolicy=wcms_crop_resize&cropH=1001&cropW=1780&xPos=0&yPos=49&width=862&height=485)
 
 The scammers called Jenny on her unlisted landline.*(ABC News: Loretta Florance)*
-
-Help keep family & friends informed by sharing this article
-
-abc.net.au/news/jenny-lost-300000-to-remote-access-scam-commonwealth-bank/102263542
-
-Link copied
-
-COPY LINKSHARE
 
 Jenny was home alone in her kitchen preparing spaghetti bolognese when she received a phone call that has haunted her for the past two years.
 
