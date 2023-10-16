@@ -1,5 +1,5 @@
 ---
-title: "Adding comments to this markdwon post that don't display when published as a webpage"
+title: "Adding comments to this markdown post that don't display when published as a webpage"
 categories: web
 ---
 
