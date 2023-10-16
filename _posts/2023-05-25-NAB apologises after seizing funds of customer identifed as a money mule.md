@@ -51,8 +51,6 @@ Two months later, the bank took $40,000 from his second account.
 
 NAB said it had information showing funds in his accounts belonged to a scam victim.
 
-[
-
 ### 'Money mules' are being used in the majority of scams reported in Australia
 
 Over a four-hour phone call, scammers gained access to Jenny's computer and transferred $300,000 out of her account. By the time she alerted the bank, it was too late.  
@@ -150,7 +148,7 @@ Initially, the bank argued the story was not in the public interest, as AFCA had
 
 But after the ABC asked the bank to justify seizing Mr Rahman's money, given most of the funds he had received had already been shifted elsewhere, NAB admitted it could have done better with its investigation and apologised.
 
-[
+
 
 ### Did you miss the story? Less than 5pc of scam losses returned
 
