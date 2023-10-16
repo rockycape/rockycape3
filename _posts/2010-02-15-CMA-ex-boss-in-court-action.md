@@ -1,6 +1,9 @@
 ---
 title: "CMA ex-boss in court action"
-categories: recycle
+categories: 
+- recycle
+- entrepreneur
+
 author:
 - Ian McIlwraith
 ---
