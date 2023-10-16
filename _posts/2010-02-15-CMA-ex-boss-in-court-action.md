@@ -16,7 +16,7 @@ August 16, 2010 --- 3.00am
 
 SACKED CMA Corporation chief executive Doug Rowe, already being sued by the company for millions of dollars in allegedly misleading and deceptive deals, has tempted further court action by setting up a similarly named rival group.
 
-Mr Rowe, who sold his business Southern Rocycling to CMA for more than $40 million in cash and shares three years ago, last month used a chain of family-owned companies to set up SouthernRo, a scrap metal operation in the Melbourne suburb of Greensborough.
+Mr Rowe, who sold his business Southern Recycling to CMA for more than $40 million in cash and shares three years ago, last month used a chain of family-owned companies to set up SouthernRo, a scrap metal operation in the Melbourne suburb of Greensborough.
 
 ![CMA Corporation is suing former chief executive Doug Rowe.](https://static.ffx.io/images/$width_620%2C$height_349/t_crop_fill/q_86%2Cf_auto/59a94da2ed133bf94a1998c46eaa9d54d96408d8)
 
