@@ -1,7 +1,7 @@
 ---
 title: "medicinal cannabis prescribing doctors"
 categories: health
-author:
+authors:
 - Matilda Marozzi
 ---
 

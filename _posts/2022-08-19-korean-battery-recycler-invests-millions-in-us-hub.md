@@ -1,7 +1,7 @@
 ---
 title: "Korean battery recycler invests millions in US hub"
 categories: recycle
-author:
+authors:
 - Kirstin Linnenkoper
 ---
 

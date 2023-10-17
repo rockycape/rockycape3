@@ -1,7 +1,7 @@
 ---
 title: "Lightning goes full circle with CMA Ecocycle"
 categories: recycle
-author:
+authors:
 - Waste Management Review
 ---
 

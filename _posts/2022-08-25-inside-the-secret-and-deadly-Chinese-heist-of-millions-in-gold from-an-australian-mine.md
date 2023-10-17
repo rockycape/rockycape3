@@ -1,7 +1,7 @@
 ---
 title: "Blood gold"
 categories: poverty
-author:
+authors:
 - Eryk Bagshaw
 - Edward Adeti
 ---

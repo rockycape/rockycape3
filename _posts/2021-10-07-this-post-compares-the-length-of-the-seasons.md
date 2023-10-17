@@ -1,7 +1,7 @@
 ---
 title: "This post compares the length of the seasons in Northern and Southern Hemispheres"
 categories: science
-author:
+authors:
 - rockycape
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Australia's Volcanic Past"
 categories: science
-author:
+authors:
 - Auspost Philatelic Team
 ---
 

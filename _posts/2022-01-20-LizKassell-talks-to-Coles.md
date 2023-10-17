@@ -1,7 +1,7 @@
 ---
 title: "REDCycle's Liz Kassell talks to Coles"
 categories: recycle
-author:
+authors:
 - Coles
 ---
 

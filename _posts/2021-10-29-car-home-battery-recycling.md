@@ -1,7 +1,7 @@
 ---
 title: "Car & Home Battery Recycling"
 categories: recycle
-author:
+authors:
 - Emilia Terzon
 ---
 

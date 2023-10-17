@@ -1,7 +1,7 @@
 ---
 title: "Household Battery National Recycling Scheme"
 categories: recycle
-author:
+authors:
 - Emilia Terzon
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Korean Battery Recycler Plans Share Sale as EV Demand Surges"
 categories: recycle
-author:
+authors:
 - Heejin Kim
 ---
 

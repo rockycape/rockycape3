@@ -1,7 +1,7 @@
 ---
 title: "One batch of pickled turnips; four recipe ideas"
 categories: recipe
-author:
+authors:
 - Tom Hunt
 ---
 

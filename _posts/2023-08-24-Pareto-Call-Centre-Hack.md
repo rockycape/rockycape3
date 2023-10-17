@@ -1,7 +1,7 @@
 ---
 title: "Pareto Call Centre hack"
 categories: cybersecurity
-author:
+authors:
 - Sarah Richards
 ---
 

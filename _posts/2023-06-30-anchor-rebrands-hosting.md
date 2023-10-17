@@ -1,7 +1,7 @@
 ---
 title: "Anchor (anchor.com.au) rebrands hosting"
 categories: cybersecurity
-author:
+authors:
 - Brendon Foye
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Meet David Collard accused of $150m tax fraud"
 categories: entrepreneur
-author: 
+authors: 
 - Alice Coster
 - Tom Minear
 - Ben Butler

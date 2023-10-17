@@ -1,7 +1,7 @@
 ---
 title: "The soft-plastics recycling debacle"
 categories: recycle
-author:
+authors:
 - Mike Seccombe
 ---
 

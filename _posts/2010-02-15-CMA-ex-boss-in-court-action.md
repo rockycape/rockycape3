@@ -4,7 +4,7 @@ categories:
 - recycle
 - entrepreneur
 
-author:
+authors:
 - Ian McIlwraith
 ---
 

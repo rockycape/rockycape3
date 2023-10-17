@@ -1,7 +1,7 @@
 ---
 title: "SCCS and PonyUpForGood"
 categories: recycle
-author:
+authors:
 - Nico Arboleda
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus photos show an unrecognisable Australia in shutdown"
 categories: community
-author:
+authors:
 - Margaret Burin
 ---
 
