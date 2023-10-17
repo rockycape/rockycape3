@@ -1,11 +1,10 @@
 ---
 title: "Optus data breach"
 categories: cybersecurity
-authors:
-- Andrew Greene
 ---
 
-
+authors:
+- Andrew Greene
 
 
 

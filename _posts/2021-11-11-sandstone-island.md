@@ -2,10 +2,11 @@
 
 title: "Sandstone Island - 1km off Hastings, Western Port Bay has sold"
 categories: realestate
+---
+
 authors:
 - Christina Karras
 - Samantha Landy
----
 
 Update: Sandstone Island - sold 11/11/2021
 

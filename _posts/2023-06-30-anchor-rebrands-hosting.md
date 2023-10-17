@@ -1,10 +1,11 @@
 ---
 title: "Anchor (anchor.com.au) rebrands hosting"
 categories: cybersecurity
+---
+
 authors:
 - Brendon Foye
 
----
 
 30 June 2023 - Anchor (anchor.com.au) rebrands hosting to Hostopia's Digital Pacific
 11 Mar 2022 - Hostopia Australia (incl. Crazy Domains) acquired by US ecommerce firm Newfold Digital

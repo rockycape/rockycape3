@@ -1,9 +1,10 @@
 ---
 title: "Woolworths, Coles and Aldi join to tackle soft plastics crisis, amid calls to 'start afresh'"
 categories: recycle
+---
+
 authors:
 - Sezen Bakan
----
 
 ![](https://thenewdaily-com-au.cdn.ampproject.org/ii/AW/s/thenewdaily.com.au/wp-content/uploads/2022/01/1643238742-Sezen-Bakan-Headshot.png?fit=96%2C89) 
 

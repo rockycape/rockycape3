@@ -1,9 +1,10 @@
 ---
 title: "Korean Battery Recycler Plans Share Sale as EV Demand Surges"
 categories: recycle
+---
+
 authors:
 - Heejin Kim
----
 
 -   SungEel mulling IPO in second half, $1 billion revenue by 2030
 

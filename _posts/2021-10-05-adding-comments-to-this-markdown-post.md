@@ -3,6 +3,9 @@ title: "Adding comments to this markdown post that don't display when published 
 categories: web
 ---
 
+authors:
+- rockycape
+
 blah blah blah
 
 {% comment %}

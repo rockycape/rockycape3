@@ -1,9 +1,10 @@
 ---
 title: "Close the Loop fire impacts both REDcycle and Cartridges 4 Planet Ark"
 categories: recycle
+---
+
 authors:
 - Laura Chung
----
 
 More than a million used printer cartridges are being stockpiled and will not be recycled until next year after a warehouse fire at a recycling facility brought the industry to a standstill.
 

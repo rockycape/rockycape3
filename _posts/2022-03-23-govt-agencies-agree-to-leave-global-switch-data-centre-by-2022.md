@@ -1,11 +1,10 @@
 ---
 title: "Govt agencies agree to leave Global Switch data centre by 2022"
 categories: cybersecurity
-authors:
-- Justin Hendry
 ---
 
-
+authors:
+- Justin Hendry
 
 
 Home Affairs reveals new deadline.

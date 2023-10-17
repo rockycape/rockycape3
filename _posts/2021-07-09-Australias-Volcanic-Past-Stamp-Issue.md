@@ -1,9 +1,10 @@
 ---
 title: "Exploring Australia's Volcanic Past"
 categories: science
+---
+
 authors:
 - Auspost Philatelic Team
----
 
 -   09 JULY 2021
 -   15 MINS

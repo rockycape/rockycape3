@@ -1,11 +1,10 @@
 ---
 title: "City Of Melbourne Bike Lanes"
 categories: cycling
-authors:
-- City Of Melbourne
 ---
 
-
+authors:
+- City Of Melbourne
 
 ![Artist impression of upgraded bike lane in the CBD](https://www.melbourne.vic.gov.au/SiteCollectionImages/exhibition-street-bike-lanes-2020-400.jpg)
 

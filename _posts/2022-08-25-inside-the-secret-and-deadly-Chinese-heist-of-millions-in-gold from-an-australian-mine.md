@@ -1,11 +1,11 @@
 ---
 title: "Blood gold"
 categories: poverty
+---
+
 authors:
 - Eryk Bagshaw
 - Edward Adeti
----
-
 
 ![](https://www.theage.com.au/interactive/2022/blood-gold/assets/images/cover-blood-gold.png)
 

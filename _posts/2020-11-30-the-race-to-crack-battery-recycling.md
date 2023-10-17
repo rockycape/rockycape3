@@ -1,10 +1,10 @@
 ---
 title: "The Race To Crack Battery Recycling"
 categories: recycle
-authors:
-- Daniel Oberhaus
 ---
 
+authors:
+- Daniel Oberhaus
 
 Millions of EVs will soon hit the road, but the world isn't ready for their old batteries. A crop of startups wants to crack this billion-dollar problem.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

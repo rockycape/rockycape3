@@ -1,9 +1,10 @@
 ---
 title: "REDcycle declared insolvent after handing plastic stockpile to supermarket giants"
 categories: recycle
+---
+
 authors:
 - Chris Vedelago
----
 
 [Inside the REDcycle Collapse - Please Explain Podcast by theage and smh on omny.fm](https://omny.fm/shows/please-explain-1/millions-of-plastic-bags-go-to-landfill-inside-the#sharing)   
   
