@@ -4,7 +4,7 @@ categories: cybersecurity
 ---
 
 authors:
-- Brendon Foye
+-Brendon Foye
 
 
 30 June 2023 - Anchor (anchor.com.au) rebrands hosting to Hostopia's Digital Pacific

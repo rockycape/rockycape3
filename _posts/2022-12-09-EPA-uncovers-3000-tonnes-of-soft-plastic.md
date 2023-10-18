@@ -4,8 +4,8 @@ categories: recycle
 ---
 
 authors:
-- Najma Sambul
-- Chris Vedelago
+-Najma Sambul
+-Chris Vedelago
 
 Half a billion plastic bags have been discovered in warehouses in Victoria and South Australia as investigations continue into the collapse of Australia's largest soft plastics recycling program.
 

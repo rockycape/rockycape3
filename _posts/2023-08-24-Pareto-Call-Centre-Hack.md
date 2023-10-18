@@ -4,7 +4,7 @@ categories: cybersecurity
 ---
 
 authors:
-- Sarah Richards
+-Sarah Richards
 
 ![Close-up of platypus](https://live-production.wcms.abc-cdn.net.au/8ab0b8316649deda0b510333fdf3c00d?impolicy=wcms_crop_resize&cropH=1689&cropW=3000&xPos=0&yPos=68&width=862&height=485)
 
