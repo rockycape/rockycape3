@@ -1,10 +1,9 @@
 ---
 title: "One batch of pickled turnips; four recipe ideas"
 categories: recipe
-authors:
-- Tom Hunt
 ---
-
+authors:
+-Tom Hunt
 
 A surprisingly versatile batch of **pickled turnips** adds bite to fluffy falafel pittas and a crisp salad, steals the show as a dip for kofte kebabs, and is the perfect foil for lamb bacon with lentils
 
