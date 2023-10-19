@@ -3,13 +3,10 @@ title: "One batch of pickled turnips; four recipe ideas"
 categories: recipe
 ---
 
-authors:
--[Tom Hunt](https://www.theguardian.com/profile/tom-hunt)
-
 A surprisingly versatile batch of **pickled turnips** adds bite to fluffy falafel pittas and a crisp salad, steals the show as a dip for kofte kebabs, and is the perfect foil for lamb bacon with lentils
 
-Sat 20 Feb 2016 23.00 AEDT
-
+authors:
+-[Tom Hunt](https://www.theguardian.com/profile/tom-hunt)
 
 I love turnips and hold them with as much reverence as any vegetable. Turnips are a good demonstration of my "root to fruit" ethos as the tops are so delicious and should always be eaten. For this reason buy turnips with bright green perky leaves so that you can cook them up as a delicious free or bonus vegetable. As the leaves perish a lot quicker than the root they are also a good indication of the root's freshness. Small turnips tend to be sweeter, while larger ones have a more peppery twang. Old ones can become spongy, so choose turnips that are heavy for their size. Bag the leaves and stalks and keep these bagged in the fridge. Store the roots in the fridge separately.
 
