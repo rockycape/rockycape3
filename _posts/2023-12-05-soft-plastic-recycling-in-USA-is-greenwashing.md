@@ -6,21 +6,13 @@ categories: recycle
 authors:
 -Evan Simon
 
-
-
-
-Plastic recycling directory ends, citing lack of 'real commitment from industry'
-================================================================================
-
-The directory listed sites to drop off plastics for recycling.
-
-By[Evan Simon](https://abcnews.go.com/author/evan_simon)
-
-December 5, 2023, 4:45 AM
+December 5, 2023
 
 Trashed: The Secret Life of Plastic Recycling
 
 ABC News' groundbreaking investigation looks into how well the U.S. plastic...
+
+Video Report [Trashed: The Secret Life of Plastic Recycling](https://abcnews.go.com/US/video/trashed-secret-life-plastic-recycling-99557139)
 
 After 20 years of operation, a national online recycling directory for plastic bags and plastic films has been taken offline, six months after [an ABC News investigation](https://abcnews.go.com/US/video/trashed-secret-life-plastic-recycling-99557139).
 
@@ -49,8 +41,6 @@ ABC News
 In May, an [ABC News investigation](https://abcnews.go.com/abcnews.go.com/US/put-dozens-trackers-plastic-bags-recycling-trashed/story?id=99509422) using digital tracking devices revealed that plastics bags dropped off at many Walmart and Target stores listed on the directory were instead sent to landfills, incinerators and other waste facilities that play no role in recycling plastic bags or film.
 
 Of the 46 trackers ABC News and nine ABC-owned stations and affiliates secured to bundles of "recyclable" plastic bags and dropped off at Walmart and Target stores across the country, the vast majority -- after months of tracking -- had not ended up at locations associated with plastic bag recycling. Half the trackers launched last pinged at landfills or trash incinerators, while seven stopped pinging at transfer stations that do not recycle, sort, or transfer plastic bags to recycling facilities, and six last pinged at the store where they were dropped off and hadn't been heard from in months.
-
-[Video Report --> Trashed: The Secret Life of Plastic Recycling](https://abcnews.go.com/US/video/trashed-secret-life-plastic-recycling-99557139)
 
 The locations of three other trackers in the U.S. were inconclusive, while a further three trackers last pinged thousands of miles overseas -- in Asia. By May, 2023, only four of ABC's 46 trackers last pinged from U.S. facilities that say they are involved with recycling plastic bags.
 
