@@ -18,10 +18,6 @@ By[Evan Simon](https://abcnews.go.com/author/evan_simon)
 
 December 5, 2023, 4:45 AM
 
-![](https://i.abcnewsfe.com/a/ea1fc2c3-9bb2-4636-87ad-6eb01a1c15cb/plastic-recycling-nyc-gty-lv-231130_1701379394714_hpMain_16x9.jpg?w=992)
-
-28:23
-
 Trashed: The Secret Life of Plastic Recycling
 
 ABC News' groundbreaking investigation looks into how well the U.S. plastic...
@@ -54,11 +50,7 @@ In May, an [ABC News investigation](https://abcnews.go.com/abcnews.go.com/US/pu
 
 Of the 46 trackers ABC News and nine ABC-owned stations and affiliates secured to bundles of "recyclable" plastic bags and dropped off at Walmart and Target stores across the country, the vast majority -- after months of tracking -- had not ended up at locations associated with plastic bag recycling. Half the trackers launched last pinged at landfills or trash incinerators, while seven stopped pinging at transfer stations that do not recycle, sort, or transfer plastic bags to recycling facilities, and six last pinged at the store where they were dropped off and hadn't been heard from in months.
 
-[
-
-### MORE: Trashed: The Secret Life of Plastic Recycling
-
-](https://abcnews.go.com/US/video/trashed-secret-life-plastic-recycling-99557139)
+[Video Report --> Trashed: The Secret Life of Plastic Recycling](https://abcnews.go.com/US/video/trashed-secret-life-plastic-recycling-99557139)
 
 The locations of three other trackers in the U.S. were inconclusive, while a further three trackers last pinged thousands of miles overseas -- in Asia. By May, 2023, only four of ABC's 46 trackers last pinged from U.S. facilities that say they are involved with recycling plastic bags.
 
