@@ -6,11 +6,11 @@ categories: active-transport
 authors:
 -DOTroadprojects@roads.vic.gov.au
 
-Location:  Hawthorn, Hawthorn East
+Location:  Hawthorn, Hawthorn East 
 ---------
-Type:  Road
+Type:  Road 
 -----
-Status:  Complete
+Status:  Complete 
 -------
 
 
