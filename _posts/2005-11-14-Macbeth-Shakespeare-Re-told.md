@@ -1,6 +1,6 @@
 ---
 title: "Macbeth Shakespeare Re-told"
-categories: recipe
+categories: story
 ---
 
 This programme was broadcast on BBC on 14 November 2005. Written by Peter Moffat.
