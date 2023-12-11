@@ -22,3 +22,20 @@ A few weeks later, and Joe and Ella are feeling the strain of the guilt. Joe hal
 Terrified that Billy will find him out, Joe forces Johnny Boy to murder him, but hallucinates his corpse sitting at the table at a breakfast meeting and freaks out. He and Ella are falling apart - driven by fear Joe has Macduff's family killed, while Ella can take no more and jumps to her death.
 
 In a final showdown, Joe faces Peter Macduff in the kitchen. Believing nothing can harm him, Joe is cocky, but then he hears the noise of police helicopters. Pigs are flying, and Macduff stabs Macbeth to death.
+
+
+**Shakespeare's orginal story of Macbeth**
+
+Returning from a victorious battle, Scots warriors Macbeth and Banquo are met by three witches. They predict that Macbeth will be promoted to Thane of Cawdor, and ultimately King, while Banquo will be the father of Kings to come. When King Duncan hands Macbeth Cawdor's title in return for his loyal service, the two realise the witches prophesised truly.
+
+To bring the second prediction about, Macbeth and his wife Lady Macbeth plot to kill the King when he visits their castle. Macbeth has doubts, and sees a vision of a dagger - but still kills Duncan at Lady Macbeth's urging. He immediately feels guilty so Lady Macbeth takes over and plants the bloodied murder weapon on the bodyguards.
+
+Once another guest, Macduff, discovers the body, Macbeth kills the two bodyguards, supposedly in a fit of rage, and the king's sons Malcolm and Donalbain run away in fear of their lives. Their flight leads some to suspect them of plotting to kill their father, and Macbeth is crowned the new King of Scotland.
+
+Worried that Banquo is suspicious of him, Macbeth hires assassins to kill him and his son Fleance, thus preventing the witches' prophecy. They half do the job, killing Banquo while Fleance escapes.
+
+Meanwhile, Macduff is also convinced that Macbeth is guilty, travels to England and joins forces with Malcolm. He pays a high price for his principles, for Macbeth has his wife and children put to death in retaliation.
+
+Macbeth revisits the witches who tell him to fear 'no man born of woman', which he takes to mean that no one can kill him. As he prepares for an English invasion Macbeth learns that his wife is dead, driven mad by her guilt at Duncan's death.
+
+At the battle, no man can bring Macbeth down, until he meets Macduff on the battleground. Confident that he cannot be killed, Macbeth tells him of the witches' prophecy. Macduff replies that he was "from my mother's womb untimely ripp'd", i.e. he was delivered by Caesarian section and so was not born of woman. With this, he strikes Macbeth's head off, and presents it to Malclom, the new King of Scotland.
