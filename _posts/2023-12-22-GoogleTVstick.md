@@ -1,6 +1,6 @@
 ---
 title: "GoogleTVstick"
-categories: recycle
+categories: tech
 ---
 
 authors:
