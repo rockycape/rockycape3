@@ -10,7 +10,7 @@ authors:
 
 
 
-[2 comments ](https://heapsgoodpackaging.com.au/blogs/news/know-your-plastics#comments)AUG 10, 2022by Liv McLeod
+[How to recycle the seven plastics](https://heapsgoodpackaging.com.au/blogs/news/know-your-plastics#comments)AUG 10, 2022by Liv McLeod
 
 Sometimes it feels like the more eco-conscious you become, the more you realise how much you don't know.
 
