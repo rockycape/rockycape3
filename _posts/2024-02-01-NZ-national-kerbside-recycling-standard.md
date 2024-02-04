@@ -5,12 +5,7 @@ categories: recycle
 authors:
 - [Benjamin Plummer](https://www.newstalkzb.co.nz/author/?Author=Benjamin%20Plummer)
 
--   [NEWS](https://www.newstalkzb.co.nz/news/ "News")
--   [NATIONAL](https://www.newstalkzb.co.nz/news/national/ "National")
-
-Publish Date
-
-Thu, 1 Feb 2024, 7:19AM
+Publish Date: Thu, 1 Feb 2024, 7:19AM
 
 ![Photo / 123RF](https://www.newstalkzb.co.nz/media/oh0jfnhe/recycling-collection-123rf.jpg?rmode=crop&rnd=133512698852800000&height=379&quality=95&scale=both)
 
