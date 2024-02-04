@@ -1,5 +1,5 @@
 ---
-title: "N.Z. STANDARDISED KERBSIDE RECYCLING TO COME INTO EFFECT FROM FEBRUARY 1 2024"
+title: "N.Z. standardised kerbside recycling to come into effect Feb 1 2024"
 categories: recycle
 ---
 
