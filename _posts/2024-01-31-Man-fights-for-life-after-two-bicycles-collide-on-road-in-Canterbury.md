@@ -22,8 +22,9 @@ Police remained at the scene overnight and are yet to determine exactly how the 
 
 Anyone with information is urged to contact them.
 
+-----------------------------------------------------------
 
-Cyclist dies after tragic Canterbury e-bike collision
+***Cyclist dies after tragic Canterbury e-bike collision***
 February 6, 2024 | Leader - Whitehorse Gazette (Australia)
 Author/Byline: Gemma Scerri, Fergus Ellis; Journalist | Section: Inner East News And Photos
 258 Words
