@@ -59,3 +59,5 @@ A Victoria Police spokesperson said Nunawading highway patrol officers were inve
 The investigation remains ongoing.
 
 Anyone with information or dashcam footage of the incident is urged to contact Crimestoppers on 1800 333 000 or make an anonymous online report here.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4dapm9AnfU?si=Ma22T0XAE3mkRgCp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
