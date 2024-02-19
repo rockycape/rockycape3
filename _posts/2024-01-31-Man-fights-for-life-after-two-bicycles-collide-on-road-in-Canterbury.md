@@ -3,19 +3,10 @@ title: "Man fights for life after two bicycles collide on road in Canterbury, Me
 categories: cycling
 ---
 
-Both cyclists were injured in the crash.
-
-![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](/assets/images/phototwobicyclecollision.jpeg)  
-
-![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](assets/images/phototwobicyclecollision.jpeg)  
-
-![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](/rockycape/rockycape3/assets/images/phototwobicyclecollision.jpeg)  
-
-![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](rockycape/rockycape3/assets/images/phototwobicyclecollision.jpeg)  
+Both cyclists were injured in the crash. 
 
 ![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](/rockycape3/assets/images/phototwobicyclecollision.jpeg)  
-
-![Man fights for life after two bicycles collide on road in Canterbury, Melbourne](rockycape3/assets/images/phototwobicyclecollision.jpeg)  
+ 
 
 A man is fighting for life after his bicycle collided with another on a road in [Melbourne's](https://7news.com.au/news/melbourne) east.
 
