@@ -4,7 +4,7 @@ categories: health
 ---
 
 authors:
--Four Corners
+-Elise Worthington
 
 
 [Four Corners](https://www.abc.net.au/news/programs/4corners/)
