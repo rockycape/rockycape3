@@ -7,10 +7,6 @@ authors:
 -Four Corners
 
 
-
-
-
-
 [Four Corners](https://www.abc.net.au/news/programs/4corners/)
 
  / By national health reporter [Elise Worthington](https://www.abc.net.au/news/elise-worthington/5105938), [Lesley Robinson](https://www.abc.net.au/news/lesley-robinson/11169388) and [Nick Wiggins](https://www.abc.net.au/news/nick-wiggins/6991232)
