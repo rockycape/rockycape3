@@ -66,6 +66,8 @@ It has four directors --- 69-year-old Gold Coast-based naturopath and herbalist 
 
 ![A head shot of man with grey hair smiling at the camera, with a plain background.](https://live-production.wcms.abc-cdn.net.au/ac47474eb531e50e62670a53148399b8?src)
 
+[revolutionchiropractic.com.au/meet-the-team/geoff-beaty/](https://revolutionchiropractic.com.au/meet-the-team/geoff-beaty/)
+
 Newtech director Geoff Beaty describes himself as a naturopath and master herbalist on LinkedIn.(Supplied: LinkedIn)
 
 When Newtech's bank account was shut down, its directors contacted Mr Correy to try and get it re-opened, making elaborate claims about what had happened.
