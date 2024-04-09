@@ -1,6 +1,6 @@
 ---
 title: "cowboy pharmacist behind a replica ozempic and mounjaro scam"
-categories: health
+categories: health cybersecurity
 ---
 
 authors:
