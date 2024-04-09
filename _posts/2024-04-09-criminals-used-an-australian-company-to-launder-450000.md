@@ -9,7 +9,7 @@ authors:
 
 By national consumer affairs reporter Michael Atkin and the Specialist Reporting Team's Loretta Florance
 
-https://www.abc.net.au/news/2024-04-09/australian-company-used-by-criminals-to-scam-launder-money/103654102?
+[Criminals used an Australian company to launder $450,000, but no charges were laid](https://www.abc.net.au/news/2024-04-09/australian-company-used-by-criminals-to-scam-launder-money/103654102?)
 
 -   **In short: **Peter Correy thought he was buying Treasury bonds from an Australian oil company, but instead, his money was sent offshore and the company refused to give it back.
 -   Weaknesses in Australia's regulatory system are being exploited by criminals to launder money through company bank accounts and experts want action taken to stop it.
