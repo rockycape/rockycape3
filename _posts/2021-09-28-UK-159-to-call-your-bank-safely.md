@@ -29,50 +29,51 @@ Currently, banks that cover over 70% of UK current account customers are signed 
 
 **Is my bank taking part in the scheme?**
 
-**Banks taking part**
-Bank of Scotland
-Barclays
-Halifax
-Lloyds Bank
-NatWest
-Royal Bank of Scotland
-Santander
-Starling Bank
-Ulster Bank
+**Banks taking part**  
+Bank of Scotland  
+Barclays  
+Halifax  
+Lloyds Bank  
+NatWest  
+Royal Bank of Scotland  
+Santander  
+Starling Bank  
+Ulster Bank  
 
-**Major banks not yet taking part**
-Atom
-Bank of Ireland UK          
-Co-op Bank
-Danske Bank
-HSBC
-Metro
-Monzo
-Tandem
-TSB (i)
-Virgin Money
+**Major banks not yet taking part**  
+Atom  
+Bank of Ireland UK  
+Co-op Bank  
+Danske Bank  
+HSBC  
+Metro  
+Monzo  
+Tandem  
+TSB (i)  
+Virgin Money 
+ 
 (i) TSB intends to join the service in early 2022.
 
 You can call 159 if you're a customer of most major telecoms firms
 The majority of telecoms firms are participating in the scheme, which enables you to call 159 from handsets and landlines if you're a customer. Here are the firms taking part:
 
-BT (including EE and Plusnet)
-Gamma
-O2 (including Giffgaff)
-Sky
-TalkTalk
-Three
-Virgin Media
-Vodafone
+BT (including EE and Plusnet)  
+Gamma  
+O2 (including Giffgaff)  
+Sky  
+TalkTalk  
+Three  
+Virgin Media  
+Vodafone  
 
 When calling 159, you'll be taken through an option menu in which each bank that has signed up to the service is read aloud. Customers are then able to use their telephone keypad to be put through to their bank. You'll then be directed through to your bank's customer service department. Note that calling the service will cost the same as making a national rate call, which means if you've got inclusive minutes it'll be taken from those.
 For those who bank with firms not yet involved in the 159 pilot – you should continue to contact your bank by using the number on the back of your debit or credit card.
 
 If the pilot is successful (it's planned to last for 12 months), Stop Scams UK will ask telecoms regulator Ofcom to make 159 a universal number offered by all telephone providers in the same way that 999 and 111 are accessible to all. In 2022, a voice recognition system will also be incorporated to make the process easier.
 
-**When to call 159**
+**When to call 159**  
 People are being urged to call 159 if they encounter the following:
 
--Someone contacts you claiming to be from your bank – even if they do not seem suspicious.
--You are contacted by someone claiming to be an authority figure (such as the police) and told to transfer money – even if the request seems genuine.
--You receive a call about a financial matter and it appears suspicious.
+-Someone contacts you claiming to be from your bank – even if they do not seem suspicious.  
+-You are contacted by someone claiming to be an authority figure (such as the police) and told to transfer money – even if the request seems genuine.  
+-You receive a call about a financial matter and it appears suspicious.  
