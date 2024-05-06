@@ -4,8 +4,8 @@ categories: cybersecurity
 ---
 
 authors:
--Michael Atkin
--Loretta Florance
+-Michael Atkin  
+-Loretta Florance  
 
 By national consumer affairs reporter Michael Atkin and the Specialist Reporting Team's Loretta Florance
 

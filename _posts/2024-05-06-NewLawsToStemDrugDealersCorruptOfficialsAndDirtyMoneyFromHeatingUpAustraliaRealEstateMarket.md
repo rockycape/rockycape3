@@ -3,6 +3,9 @@ title: "New laws to stem drug dealers, corrupt officials and dirty money from he
 categories: cybersecurity
 ---
 
+authors:
+-Daniel Ziffer  
+
 
 Buying a home? Soon you won't have as much competition from drug dealers, corrupt officials and criminals with dirty money thanks to new laws and a boost to enforcement.
 
