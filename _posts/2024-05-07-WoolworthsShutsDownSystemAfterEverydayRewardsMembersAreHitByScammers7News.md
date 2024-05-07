@@ -3,6 +3,10 @@ title: "Woolworths shuts down system after Everyday Rewards members are hit by s
 categories: cybersecurity
 ---
 
+authors:
+-Amy Sinclair   
+
+
 
 [Woolworths](https://7news.com.au/lifestyle/woolworths) supermarket has confirmed that it’s been forced to shut down a major payment system after [Everyday Rewards members](https://7news.com.au/lifestyle/woolworths-confirms-major-new-everyday-rewards-extra-promotion-effective-immediately--c-14318808) were targeted by scammers.
 
