@@ -20,7 +20,7 @@ Now a [Woolworths](https://www.woolworths.com.au/) spokesperson has confirmed th
 
 The retail giant has assured members that the payment details and data on their accounts remains secure, and there has been no breach or hack of the Everyday Rewards system as a whole.
 
-![Everyday Rewards members receive this message when they try and access Everyday Pay.](Woolworths%20shuts%20down%20system%20after%20Everyday%20Rewards%20members%20are%20hit%20by%20scammers%20%207NEWS/966a786ef46e5fb60b78cc01a989203188ac51aa-161x229-x0y0w1000h1422.jpg)  
+![Everyday Rewards members receive this message when they try and access Everyday Pay.](https://images.7news.com.au/publication/C-14478556/966a786ef46e5fb60b78cc01a989203188ac51aa-161x229-x0y0w1000h1422.jpg?imwidth=828&impolicy=sevennews_v2)  
 
 
 Everyday Rewards members receive this message when they try and access Everyday Pay. Credit: Facebook
