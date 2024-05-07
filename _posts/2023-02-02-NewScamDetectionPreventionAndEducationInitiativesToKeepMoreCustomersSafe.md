@@ -1,6 +1,6 @@
 ---
 title: "New Scam Detection, Prevention And Education Initiatives To Keep More Customers Safe"
-categories: cybersecurity
+categories: cybersecurity positive
 ---
 
 authors:
