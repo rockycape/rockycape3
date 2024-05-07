@@ -12,8 +12,6 @@ authors:
 
 The retail giant has removed the Everyday Pay option from its Everyday Rewards app due to a “sophisticated external phishing scam” affecting selected customers.
 
-Trends, culture and exclusive features: [Sign up for 7LIFE newsletters ![Sign up for 7LIFE newsletters](Woolworths%20shuts%20down%20system%20after%20Everyday%20Rewards%20members%20are%20hit%20by%20scammers%20%207NEWS/right-red-arrow.92bca5db.svg)](https://7news.com.au/newsletters) 
-
 Everyday Pay is a feature within the Everyday Rewards app that allows members to save their debit and credit cards in the Everyday Pay wallet, pay via QR code at the checkout, and buy and store gift cards in the wallet.
 
 Since April 25, a chorus of Woolies customers have taken to social media to voice their frustration about how Everyday Pay had been removed from the app with no communication.
