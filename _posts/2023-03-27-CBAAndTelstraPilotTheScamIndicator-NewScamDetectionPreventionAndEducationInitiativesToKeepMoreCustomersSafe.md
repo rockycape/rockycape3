@@ -7,6 +7,8 @@ authors:
 -CBA  
 -Telstra  
 
+[https://www.commbank.com.au/articles/newsroom/2023/03/CBA-telstra-partnership-scams.html](https://www.commbank.com.au/articles/newsroom/2023/03/CBA-telstra-partnership-scams.html)  
+
 27 March 2023
 
 CBA and Telstra join forces to protect customers from phone scams
