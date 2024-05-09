@@ -1,5 +1,5 @@
 ---
-title: "New Scam Detection, Prevention And Education Initiatives To Keep More Customers Safe"
+title: "CBA New Scam Detection, Prevention And Education Initiatives To Keep More Customers Safe"
 categories: cybersecurity positive
 ---
 
