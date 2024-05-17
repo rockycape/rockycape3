@@ -33,6 +33,8 @@ The transgressions followed a notification to the Medical Board in March 2010, w
 
 ---
 
+[Medical Board of Australia v Yeo (Review and Regulation) (No.2) (Corrected) [2019] VCAT 1928 (10 December 2019)](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VCAT/2019/1928.html?context=1;query=%22michael%20yeo%22;mask_path=)  
+
 Medical Board of Australia v Yeo (Review and Regulation) (No.2) (Corrected) [2019] VCAT 1928 (10 December 2019)
 Last Updated: 17 December 2019
 
