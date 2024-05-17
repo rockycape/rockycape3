@@ -1,6 +1,6 @@
 ---
 title: "Bad practice: Doctors who have done wrong"
-categories: 
+categories: health
 ---
 
 authors:
