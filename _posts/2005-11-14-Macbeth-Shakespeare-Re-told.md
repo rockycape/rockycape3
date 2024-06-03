@@ -13,7 +13,7 @@ Back at Docherty's, Joe and Billy are met by Duncan, who tells them that the res
 
 Later, Ella and Joe discuss the turn of events. It's never said outright, but by the end of the night they have decided to murder Duncan when he stays at the restaurant that evening, bringing about the binmen's prophecy that Joe will get it.
 
-The next evening, Ella has arranges everything to give the two of them an alibi, but Joe is having doubts. To push him into it, she talks about the baby they had together, and lost. Joe does the deed, but cannot go back in to finish off the alibi, so Ella does it for him - stabbing Duncan's corpse with a knife bearing the fingerprints of a casual washer-up.
+The next evening, Ella has arranged everything to give the two of them an alibi, but Joe is having doubts. To push him into it, she talks about the baby they had together, and lost. Joe does the deed, but cannot go back in to finish off the alibi, so Ella does it for him - stabbing Duncan's corpse with a knife bearing the fingerprints of a casual washer-up.
 
 After Duncan's body is discovered the next day, Ella and Joe give a tearful press conference and speak to the police. Only Billy notices that their expressions of grief are very very similar - as if they'd rehearsed them together. Meanwhile Johnny Boy, one of the other cooks, is nervous - he has done time for stabbing and thinks the police will come for him.
 
