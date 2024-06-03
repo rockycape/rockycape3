@@ -15,7 +15,7 @@ authors:
 
 
 
-# Hawthorn Football Club need to face divisive past, says former Indigenous liaison officer
+
 
 > ## Excerpt
 > Leon Egan believes Hawthorn are genuinely trying to make changes, but he said the club in the past had dealt with Indigenous issues in a “tokenistic” fashion.
