@@ -3,7 +3,6 @@ title: "Balwyn cyclist dies after tragic Canterbury e-bike collision"
 categories: cycling
 ---
 
-February 6, 2024
  | Leader - Whitehorse Gazette (Australia)
 Author/Byline: Gemma Scerri, Fergus Ellis; Journalist | Section: Inner East News And Photos
 
