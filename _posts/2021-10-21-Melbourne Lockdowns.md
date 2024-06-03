@@ -1,3 +1,8 @@
+---
+title: "Melbourne Lockdowns"
+categories: health
+---
+
 Melbourne, Australia experienced several periods of lockdown during the COVID-19 pandemic, each with varying durations and restrictions:
 
 1. **Lockdown 1**: March 31, 2020 – May 31, 2020 (62 days)

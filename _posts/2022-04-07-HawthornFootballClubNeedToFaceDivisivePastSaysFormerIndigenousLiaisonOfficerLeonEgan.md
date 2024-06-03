@@ -1,6 +1,18 @@
+---
+title: "Hawthorn Football Club need to face divisive past, says former Indigenous liaison officer Leon Egan"
+categories: indigenous
+---
+
+authors:
+-Caroline Wilson 
+
+
+
+
+
+
 [HawthornsFormerIndigenousManagerLeonEgan](https://www.theage.com.au/sport/afl/they-were-too-busy-winning-former-hawks-indigenous-manager-says-club-must-face-its-past-20220407-p5ablr.html)  
 
-author: Caroline Wilson
 
 
 # Hawthorn Football Club need to face divisive past, says former Indigenous liaison officer
