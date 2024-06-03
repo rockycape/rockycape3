@@ -1,6 +1,6 @@
 ---
 title: "Man fights for life after two bicycles collide on road in Canterbury"
-categories: cybersecurity
+categories: cycling
 ---
 
 
