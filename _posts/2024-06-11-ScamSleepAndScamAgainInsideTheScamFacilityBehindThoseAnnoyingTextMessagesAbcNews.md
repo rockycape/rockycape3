@@ -7,8 +7,6 @@ author:
 -Gina McKeon  
 
 
-# Scam, sleep and scam again. Inside the scam facility behind those annoying text messages - ABC News
-
 > ## Excerpt
 > In the Dubai desert lies a scam factory capable of swindling tens of thousands of people at a time. But one scammer has a secret plan that could shut the whole syndicate down.
 
