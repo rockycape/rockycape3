@@ -37,7 +37,7 @@ He was escorted to the seventh floor, where he was shown a room with enough bunk
 
 Then he was moved on to another room that had 16 workstations.
 
-![An office with rows of computers on desks.](assets/images/5d033c5566118a9104b627826c05004e.jpeg)
+![An office with rows of computers on desks.](/assets/images/5d033c5566118a9104b627826c05004e.jpeg)
 
 Inside a scam factory where workers sleep and eat in the same building, scamming innocent victims around the clock.(Supplied)
 
@@ -67,7 +67,7 @@ Evan's job was to fatten the pig. He'd spend all day messaging up to 40-50 poten
 
 He said Ukraine was strategically chosen to elicit sympathy from potential victims.
 
-![Six photos of women with blurred faces.](assets/images/aa8cdbf8d51441ad9a6100a9628a721d.jpeg)
+![Six photos of women with blurred faces.](/assets/images/aa8cdbf8d51441ad9a6100a9628a721d.jpeg)
 
 Model shots for use when approaching potential victims.(Supplied)
 
@@ -81,7 +81,7 @@ Evan watched her take video calls from unsuspecting victims.
 
 "She would say hi and wave to them, say that you love them, send kisses, and then give us the phone back," says Evan.
 
-![](assets/images/8ae9826f156113275a00bd31ae7fa188.jpeg)
+![](/assets/images/8ae9826f156113275a00bd31ae7fa188.jpeg)
 
 A model working in the Dubai scam compound speaks on a video call with a potential victim.(Supplied)
 
@@ -99,7 +99,7 @@ On the other side of the world, in Hong Kong, a WhatsApp message popped up on th
 
 "She said something along the lines of, 'With COVID and everything else that's going on on the planet at the moment, there's an easy way for you to work offline and make some money — are you interested?'"
 
-![A smiling man with stubble on his chin and close-cropped hair, in front of a sports field.](assets/images/c24772620e84eee5277939d2e70341dd.jpeg)
+![A smiling man with stubble on his chin and close-cropped hair, in front of a sports field.](/assets/images/c24772620e84eee5277939d2e70341dd.jpeg)
 
 Murray Sargant was scammed after receiving a WhatsApp message while living in Hong Kong.(Supplied)
 
@@ -145,7 +145,7 @@ As a teenager, he loved watching "scam-baiting" videos on YouTube, where online 
 
 And Evan was a particular fan of one called Jim Browning\*.
 
-![Scam baiter Jim Browning](assets/images/c01833d080c1b753174d607a0e979bd1.jpeg)
+![Scam baiter Jim Browning](/assets/images/c01833d080c1b753174d607a0e979bd1.jpeg)
 
 "Scam-baiter" Jim Browning in a real-time session with Background Briefing as he witnesses an Australian being scammed.(Supplied)
 
@@ -169,7 +169,7 @@ Evan also sent Browning footage from inside the compound showing the cramped liv
 
 "It was almost slavery — modern slavery," Browning says.
 
-![A corridor with clothes hanging on a rack.](assets/images/76a26f9436458eebfd738999c935d383.jpeg)
+![A corridor with clothes hanging on a rack.](/assets/images/76a26f9436458eebfd738999c935d383.jpeg)
 
 Inside the scam compound, conditions have been described as almost "modern-day" slavery, with workers sleeping in bunk beds and working around the clock.(Supplied)
 
@@ -195,7 +195,7 @@ Gamble and his team used Sargant's WhatsApp and Telegram messages to trace the s
 
 He knew Browning had also been monitoring scams around the world, so he reached out and sent him the IP address.
 
-![A serious-looking man.](assets/images/8c326148ff7eaf3c5e4ddc667e4b5405.jpeg)
+![A serious-looking man.](/assets/images/8c326148ff7eaf3c5e4ddc667e4b5405.jpeg)
 
 Cybercrime investigator Ken Gamble has called on the government to do more to stop "large-scale and catastrophic" cybercrime scams.(Brendan Esposito, ABC News)
 
@@ -215,7 +215,7 @@ But to progress the case in Dubai, Gamble's team was told Murray Sargant would n
 
 Sargant simply couldn't afford it and Gamble's team returned to Australia.
 
-![A row of tall office or apartment buildings.](assets/images/b8e6e2f2b9c048dfadfde755edb52e82.jpeg)
+![A row of tall office or apartment buildings.](/assets/images/b8e6e2f2b9c048dfadfde755edb52e82.jpeg)
 
 The compound outside Dubai where it's estimated tens of thousands of innocent victims were being scammed at any one time.(supplied)
 
@@ -241,7 +241,7 @@ He says new technology would allow police to infiltrate scam networks and could 
 
 In the May budget, the federal government committed $67.5 million, hoping to protect Australians from fraudsters and scammers.
 
-![A computer screen, blurry and hard to read.](assets/images/6272fe4819bc167f7c56c16266c59078.jpeg)
+![A computer screen, blurry and hard to read.](/assets/images/6272fe4819bc167f7c56c16266c59078.jpeg)
 
 Computer screen from a training session inside a Dubai scam compound.(Supplied)
 
