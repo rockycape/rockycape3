@@ -11,6 +11,9 @@ author:
 > In the Dubai desert lies a scam factory capable of swindling tens of thousands of people at a time. But one scammer has a secret plan that could shut the whole syndicate down.
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vu-Y1h9rTUs?si=Jrj2yxpHpmcdG93L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Out in the desert on the outskirts of Dubai sits a secret scam factory capable of swindling tens of thousands of people at a time.
 
 Inside, the scammers smoke, eat and furiously type on their computers as they pretend to be wealthy Eastern European women or models from Spain.
