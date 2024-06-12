@@ -1,3 +1,4 @@
+# This is a Python script to remove all non-letter characters from a string
 import re
 
 def remove_non_chars(text):
