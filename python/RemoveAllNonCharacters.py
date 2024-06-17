@@ -7,5 +7,5 @@ def remove_non_chars(text):
     cleaned_text = re.sub(pattern, '', text)
     return cleaned_text
 
-string = "Scam, Sleep And Scam Again. Inside The Scam Facility Behind Those Annoying Text Messages - Abc News"
+string = "A short trip-Thats a perfect match for you and your bicycle"
 print(remove_non_chars(string))
