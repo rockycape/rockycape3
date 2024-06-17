@@ -11,9 +11,8 @@ if __name__ == "__main__":
     usernames = [
         "StreetsYarra",
         "BristolCycling",
-        "yarrabike"
+        "yarrabike",
         "UserBicycle",
-        "BikeBristol",
         "katie_cardigan",
         "MelbourneWay",
         "liveable_melb",
