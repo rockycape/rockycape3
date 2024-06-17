@@ -7,5 +7,5 @@ def remove_non_chars(text):
     cleaned_text = re.sub(pattern, '', text)
     return cleaned_text
 
-string = "A short trip-Thats a perfect match for you and your bicycle"
+string = "A Short Trip-Thats A Perfect Match For You And Your Bicycle"
 print(remove_non_chars(string))
