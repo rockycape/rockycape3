@@ -17,6 +17,7 @@ if __name__ == "__main__":
         "MelbourneWay",
         "liveable_melb",
         "bikemelbourne",
+        "WeRideAustralia",
     ]
     
     open_x_urls(usernames)
