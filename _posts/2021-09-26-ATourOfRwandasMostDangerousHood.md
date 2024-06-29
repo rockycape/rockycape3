@@ -4,7 +4,7 @@ categories: africa
 ---
 
 authors:
-- mandy.squires@news.com.au  
+- [@SabbaticalTommy](https://www.youtube.com/@SabbaticalTommy) 
 
 
 
