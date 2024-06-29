@@ -6,7 +6,6 @@ categories: africa
 authors:
 - mandy.squires@news.com.au  
 
-{% include youtubePlayer.html id=page.youtubeId %}  
 
 
 [A Tour of Rwanda's Most "Dangerous" Hood on YOUTUBE](https://youtu.be/XWkEX6b7zPo)  
