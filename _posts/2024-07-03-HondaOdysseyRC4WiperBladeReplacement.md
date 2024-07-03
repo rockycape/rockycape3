@@ -13,16 +13,16 @@ Dimensions: 700mm
 Manufacturer: Honda  
 Vehicle: Honda Odyssey (Japan Model RC4 2015- )  
 Part Made In Country: Thailand  
-Part #:   
+Part #:  
 Decription: passenger side rubber wiper blade  
-Dimensions:   
+Dimensions:  
   
 Manufacturer: Honda  
 Vehicle: Honda Odyssey (Japan Model RC4 2015- )  
 Part Made In Country: Thailand  
-Part #:   
+Part #:  
 Decription: rear window rubber wiper blade  
-Dimensions:   
+Dimensions:  
   
 A windscreen wiper consists of three key parts:  
   
@@ -38,5 +38,4 @@ Replacing the wiper frame (or wiper arm) results in uneccessary waste and cost w
   
 However in the case of the Honda Odyssey (Japan Model RC4 2015) in Australia it is difficult to source the rubber wiper blades.  
   
-As an example the driver side wiper blade has a Honda part # 76622-TGA-J04 is availabe from Honda Dealership Parts Department for $25 in 2024.  However there is no aftermarket wiper blade available from autobarn.com.au , repco.com.au or supercheapauto.com.au .  
-  
+As an example the driver side wiper blade has a Honda part # 76622-TGA-J04 is availabe from Honda Dealership Parts Department for $25 in 2024.  However there is no aftermarket wiper blade available from autobarn.com.au , repco.com.au or supercheapauto.com.au  
