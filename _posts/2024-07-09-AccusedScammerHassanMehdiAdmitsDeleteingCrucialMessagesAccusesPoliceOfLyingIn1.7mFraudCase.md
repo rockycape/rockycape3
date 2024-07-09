@@ -1,5 +1,9 @@
-Accused scammer Hassan Mehdi admits deleting crucial messages, accuses police of lying in $1.7m fraud case
-==========================================================================================================
+---
+title: "Accused scammer Hassan Mehdi admits deleting crucial messages, accuses police of lying in $1.7m fraud case"
+categories: cybersecurity
+---
+
+[www.abc.net.au/news/2024-07-09/scam-victims-supercheap-security-hassan-mehdi-nsw-supreme-court/104057588](https://www.abc.net.au/news/2024-07-09/scam-victims-supercheap-security-hassan-mehdi-nsw-supreme-court/104057588)  
 
 By national consumer affairs reporter [Michael Atkin](https://www.abc.net.au/news/michael-atkin/5778984)
 
