@@ -1,12 +1,13 @@
-<!-- smhTotheage apple script for macOS catalina -->
+<!-- smhTotheage apple script for macOS catalina -->  
+<!-- This is a comment -->  
 <!-- This is a apple script that I execute on the desktop using automator application to run the shell command as follows:
 
 cd /Users/flurshelley/Desktop
 osascript SMHtoTHEAGE.scpt
--->
-<!-- This is a comment -->
 
-```tell application "Google Chrome"
+apple script:
+
+tell application "Google Chrome"
 	set currentTab to active tab of front window
 	set currentURL to URL of currentTab
 	if currentURL contains "smh.com.au" then
@@ -22,4 +23,5 @@ on replaceText(theText, oldText, newText)
 	set theText to theTextItems as string
 	set AppleScript's text item delimiters to ""
 	return theText
-end replaceText```
+end replaceText
+-->
