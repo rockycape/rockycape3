@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "URL Converter SMH to The Age",
+    "version": "1.0",
+    "description": "Converts SMH URLs to The Age in Chrome.",
+    "permissions": ["tabs", "webNavigation"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": [
+      "*://*.smh.com.au/*"
+    ]
+  }
