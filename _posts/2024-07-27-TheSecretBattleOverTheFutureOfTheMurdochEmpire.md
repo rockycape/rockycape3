@@ -6,7 +6,6 @@ categories: entrepreneur
 authors:
 -Jim Rutenberg
 -Jonathan Mahler
--Yeah Baby
 
 July 25, 2024
 
