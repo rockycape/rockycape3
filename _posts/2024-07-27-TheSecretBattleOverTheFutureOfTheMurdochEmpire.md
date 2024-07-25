@@ -1,6 +1,6 @@
 ---
 title: "The ‘secret battle’ over the future of the Murdoch empire"
-categories: recycle
+categories: entrepreneur
 ---
 
 authors:
