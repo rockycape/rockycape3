@@ -24,14 +24,9 @@ The calls, which will be verified by Optus, will also show the reason for the ba
 
 The verification systems included in Westpac's SafeCall product, along with the move to disclose the reasons for the call, are an Australian first. But they come as local banks face growing criticism about their response to scams.
 
-RELATED ARTICLE
----------------
-
-[
-
 ![Australian Competition and Consumer Commission deputy chair Catriona Lowe said in 2023 that losses to scams happening via social media reached $95 million.](https://static.ffx.io/images/$zoom_0.2715%2C$multiply_0.5127%2C$ratio_1.777778%2C$width_1059%2C$x_127%2C$y_0/t_crop_custom/q_86%2Cf_auto/4e90096acb370b39b14210cb06c10e90cc2b2b3e)
 
-](https://www.theage.com.au/business/banking-and-finance/scammers-are-becoming-patient-banks-say-social-media-giants-need-to-step-up-20240325-p5ff2f.html)
+[Scammers are becoming patient. Banks say social media giants need to step up](https://www.theage.com.au/business/banking-and-finance/scammers-are-becoming-patient-banks-say-social-media-giants-need-to-step-up-20240325-p5ff2f.html)
 
 ##### [Scams](https://www.theage.com.au/topic/scams-61k)
 
