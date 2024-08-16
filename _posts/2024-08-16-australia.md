@@ -31,10 +31,6 @@ categories: web
   <p>Popular tourist destinations in Australia include the Great Barrier Reef, Sydney Opera House, and Uluru. The country is known for its outdoor activities and natural beauty.</p>
 </details>
 
----
-layout: default
-title: Family Tree
----
 
 # Family Tree
 
