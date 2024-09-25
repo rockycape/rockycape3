@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Australia
 categories: web
 ---

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Reset intel mac SMC to fix SD card reader"
 categories: mac
 ---
