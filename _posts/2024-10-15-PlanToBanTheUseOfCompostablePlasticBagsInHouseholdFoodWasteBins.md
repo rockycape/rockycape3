@@ -1,6 +1,6 @@
 ---
 title: "Plan to ban the use of compostable plastic bags in household food waste bins"
-categories: recycling
+categories: recycle
 ---
 
 01:04 AEDT 09 Aug 2024, updated 01:36 AEDT 09 Aug 2024By Padraig Collins For Daily Mail Australia

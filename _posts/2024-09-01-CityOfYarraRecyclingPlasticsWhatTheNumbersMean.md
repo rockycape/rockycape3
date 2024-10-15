@@ -1,6 +1,6 @@
 ---
 title: "City of Yarra - Recycling plastics -- what the numbers mean"
-categories: recycling
+categories: recycle
 ---
 
 (orig link)[https://www.yarracity.vic.gov.au/news/2019/10/29/recycling-plastics]
