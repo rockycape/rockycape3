@@ -8,4 +8,6 @@ Compostable tidy bags made from corn starch typically contain a blend of plant-b
 
 [https://rotaryglenferrie.org.au/stories/food-waste-recycling-system
 ](https://rotaryglenferrie.org.au/stories/food-waste-recycling-system)
-    
+
+select URL
+control + command + p
