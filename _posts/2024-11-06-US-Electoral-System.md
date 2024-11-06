@@ -1,6 +1,6 @@
 ---
 title: "USA - seven swing states Georgia, Arizona, North Carolina, Wisconsin, Michigan, Pennsylvania and Nevada - who can vote, how they vote, and how votes are counted"  
-categories: USA politics
+categories: USA ElectoralSystem
 ---
 
 
@@ -10,20 +10,6 @@ By Annabel Crabb
 
 Topic:Electoral System
 
-7h ago
-7 hours ago
-
-Has Video Duration: 4 minutes 15 seconds.
-Watch 4m 15s
-
-What is the Electoral College?
-
-Link copied
-
-Share
-US election live updates: Get the latest news as it happens
-US election live results: Follow the race to the White House
-Get our newsletter and app, and US election full coverage
 As any pub galah will tell you, the US presidential election may formally involve voters in 50 states but it's really only about seven swing states whose votes will really count this time.
 
 Which is why the gentle folk of Georgia, Arizona, North Carolina, Wisconsin, Michigan, Pennsylvania and Nevada are presently living an intolerable existence; unable to stay in their homes and watch Grey's Anatomy without encountering Harris campaign ads about bungled abortions, unable to leave lest Musk-funded droogs burst out at them from behind a shrub.
