@@ -2,8 +2,6 @@
 title: "Chemist Warehouse: Marcello and Joanne Verrocchi aquire 16 Harcourt Street Hawthorn East"
 categories: entrepreneur
 ---
-
-ChemistWarehouse-MarcelloAndJoanneVerrocchiAquire16HarcourtStreetHawthornEast
  
 ![](https://www.realestatesource.com.au/wp-content/uploads/2023/03/Ellerslie-Hawthorn-East-3-1024x482.jpg)
 
