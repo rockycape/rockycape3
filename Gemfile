@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem "jekyll", "~> 4.2.0" # Keep this updated to the the latest version supported by github pages
 
 gem "github-pages", group: :jekyll_plugins
 
