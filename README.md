@@ -9,14 +9,16 @@ The repository rockycape/rockycape3 is a public project actively maintained by t
 
 This repository predominantly uses HTML (94.8%) and Ruby (5.2%). It leverages Jekyll for static site generation, with automatic deployment of changes to the website when markdown files are updated. The integration with GitHub Pages facilitates easy hosting and continuous updates, making it suitable for static web projects or simple web applications. 
 
-**Suggested Improvements for GitHub Pages Hosting**
+**Suggested Improvements for GitHub Pages Hosting following Review of GitHub Pages Documentation**
 
 To ensure your repository fully conforms to GitHub Pages hosting requirements and remains compatible with future updates, consider the following suggestions:
 
-Keep your _config.yml file updated with the latest settings and plugins recommended by GitHub Pages. For example, ensure you are using the latest version of Jekyll and its dependencies.
-* Regularly review the GitHub Pages documentation for any new changes or requirements.
-* Consider adding a Gemfile to manage Jekyll dependencies explicitly, which helps to isolate any changes in dependencies.
-* Validate your site with the GitHub Pages health check to identify and resolve any potential issues.
+Since 2020, GitHub Pages has introduced several updates and requirements that should be considered for maintaining compatibility:
+
+* Use the latest version of Jekyll and its dependencies to avoid deprecated features and ensure security patches are applied.
+* GitHub Actions can now be used to automate the build and deployment process, providing more control and customization.
+* Ensure your repository adheres to the storage and bandwidth limits set by GitHub Pages, and consider using a CDN if needed.
+* Enabling HTTPS is recommended to secure your site and redirect all HTTP requests to HTTPS.
 
 **Analysis of the Codebase**
 
