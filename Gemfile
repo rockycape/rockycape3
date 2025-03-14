@@ -1,7 +1,7 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.2.0" # Keep this updated to the the latest version supported by github pages
 
 gem 'github-pages', '~> 227', group: :jekyll_plugins  # Ensure this version supports Ruby 3.1.6
+gem "jekyll", "~> 4.2.0" # Keep this updated to the the latest version supported by github pages
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
