@@ -1,4 +1,4 @@
-name: Deploy Jekyll site to GitHub Pages
+name: Deploy Jekyll to GitHubPages02
 
 on:
   push:
