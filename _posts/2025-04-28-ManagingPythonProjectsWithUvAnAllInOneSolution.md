@@ -1,6 +1,6 @@
 ---
 title: "Managing Python Projects With uv: An All-in-One Solution"
-categories: instructions
+categories: python
 ---
 
 by [Leodanis Pozo Ramos](https://realpython.com/python-uv/#author)
