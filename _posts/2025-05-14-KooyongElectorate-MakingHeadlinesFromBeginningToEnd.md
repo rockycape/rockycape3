@@ -27,85 +27,15 @@ Ryan’s husband, Peter Jordan, was filmed taking a Hamer campaign sign from a n
 
 Ryan and Jordan apologised quickly. Defenders noted the sign was technically illegally placed, but the image of “Pinching Pete” as the Liberals dubbed him – teal T-shirt peeking out from under his jacket as he scampered down the street – became meme fuel. One local pub even began selling stubby holders emblazoned with: “Monique, please DO NOT take this beer!”
 
-Replay
-
-Unmute
-
-Current Time 1:02
-
-/
-
-Duration 1:02
-
-Loaded: 100.00%
-
-Fullscreen
 
 ![Monique Ryan's husband appears to remove a sign supporting her Liberal rival.](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/aac9c279-144f-407e-b6c4-439b6aeca8c9/24f18260-5b1e-46d8-9f19-3ca9ddc87df5/1280x720/match/image.jpg)
 
 ![Monique Ryan's husband appears to remove a sign supporting her Liberal rival.](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/aac9c279-144f-407e-b6c4-439b6aeca8c9/24f18260-5b1e-46d8-9f19-3ca9ddc87df5/1280x720/match/image.jpg)
 
-![Airbnb expands into 'experiences'](https://static.ffx.io/images/$width_740%2C$height_417/t_crop_fill/q_86%2Cf_auto/9b266a345fe4cf1bcf6d6f5bcd7f2c5d01b007e5)
-
-Up Next
-
-### Airbnb expands into 'experiences'
-
-Play video
 
 ![Monique Ryan's husband appears to remove a sign supporting her Liberal rival.](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/aac9c279-144f-407e-b6c4-439b6aeca8c9/24f18260-5b1e-46d8-9f19-3ca9ddc87df5/1280x720/match/image.jpg)
 
 Peter Jordan claimed the sign for the Liberal Party candidate Amelia Hamer illegally placed on public property.
-
-Airbnb expands into 'experiences'
-
-![Airbnb expands into 'experiences'](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/9b266a345fe4cf1bcf6d6f5bcd7f2c5d01b007e5)
-
-9:30
-
-### Airbnb expands into 'experiences'
-
-Young boy killed, three others in hospital after NSW crash
-
-![Young boy killed, three others in hospital after NSW crash](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/dd2947aa9c7b0314ac0510522e216f2ed60852cd)
-
-1:27
-
-### Young boy killed, three others in hospital after NSW crash
-
-Woman attacked by two men on e-scooters
-
-![Woman attacked by two men on e-scooters](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/11452039a9bb2d2542634686684beb5dbc568c38)
-
-0:20
-
-### Woman attacked by two men on e-scooters
-
-Jury finds man guilty of killing WA policeman
-
-![Jury finds man guilty of killing WA policeman](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/20a699b59cd8d699bcecb7ff37f02026a6adb1d9)
-
-1:56
-
-### Jury finds man guilty of killing WA policeman
-
-Football legend farewelled in Perth
-
-![Football legend farewelled in Perth](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/3b246b88242df32be753a6349700376bc91b74c3)
-
-1:48
-
-### Football legend farewelled in Perth
-
-Tributes for Perth couple killed in tragic accident
-
-![Tributes for Perth couple killed in tragic accident](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/b42f7b93fdc1ccc8d4b448b7e3482c119351be72)
-
-2:01
-
-### Tributes for Perth couple killed in tragic accident
-
-Scroll left through recommended storiesScroll right through recommended stories
 
 The Liberals ran with the joke for the rest of the campaign.
 
@@ -141,9 +71,7 @@ The campaign did veer into childishness at times. Ryan took aim at the Liberal P
 
 But most of the negative campaigning seemed to come from Liberal HQ — and there was a noticeable disconnect between that and Hamer’s own conduct. I never once heard Hamer reference Ryan’s voting record or go below the belt in public. Her pitch was more about neglected local issues and the disadvantages of not having a major party MP. She appeared uncomfortable with the signage wars being waged in her name — a conflict that escalated all the way to the Supreme Court in the final days of the campaign.
 
-## Related Article
 
-[
 
 ![Monique Ryan’s campaign staff and volunteers prepare pre-poll and election-day material.](https://static.ffx.io/images/$zoom_0.18539915966386553%2C$multiply_0.5127%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_111/t_crop_custom/q_86%2Cf_auto/a0ca2e8c647a997d12838fce4e2bd634111d5bc6)
 
@@ -177,85 +105,15 @@ But the week reached full chaos mode the following evening at what was meant to 
 
 Tensions escalated when a female attendee, who was clearly distressed, tried to punch one of the agitators in the face.
 
-Replay
-
-Unmute
-
-Current Time 0:34
-
-/
-
-Duration 0:34
-
-Loaded: 100.00%
-
-Fullscreen
 
 ![Kooyong candidates forum descends into chaos](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/327a7a26-4cb7-4058-ab74-d69aa4e0bd6f/756707ca-92c5-4858-bad1-175646004b3c/1280x720/match/image.jpg)
 
 ![Kooyong candidates forum descends into chaos](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/327a7a26-4cb7-4058-ab74-d69aa4e0bd6f/756707ca-92c5-4858-bad1-175646004b3c/1280x720/match/image.jpg)
 
-![Airbnb expands into 'experiences'](https://static.ffx.io/images/$width_740%2C$height_417/t_crop_fill/q_86%2Cf_auto/9b266a345fe4cf1bcf6d6f5bcd7f2c5d01b007e5)
-
-Up Next
-
-### Airbnb expands into 'experiences'
-
-Play video
 
 ![Kooyong candidates forum descends into chaos](https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/3910869709001/327a7a26-4cb7-4058-ab74-d69aa4e0bd6f/756707ca-92c5-4858-bad1-175646004b3c/1280x720/match/image.jpg)
 
 A meeting of Kooyong candidates led to a heated confrontation between agitators and other attendees.
-
-Airbnb expands into 'experiences'
-
-![Airbnb expands into 'experiences'](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/9b266a345fe4cf1bcf6d6f5bcd7f2c5d01b007e5)
-
-9:30
-
-### Airbnb expands into 'experiences'
-
-Young boy killed, three others in hospital after NSW crash
-
-![Young boy killed, three others in hospital after NSW crash](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/dd2947aa9c7b0314ac0510522e216f2ed60852cd)
-
-1:27
-
-### Young boy killed, three others in hospital after NSW crash
-
-Woman attacked by two men on e-scooters
-
-![Woman attacked by two men on e-scooters](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/11452039a9bb2d2542634686684beb5dbc568c38)
-
-0:20
-
-### Woman attacked by two men on e-scooters
-
-Jury finds man guilty of killing WA policeman
-
-![Jury finds man guilty of killing WA policeman](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/20a699b59cd8d699bcecb7ff37f02026a6adb1d9)
-
-1:56
-
-### Jury finds man guilty of killing WA policeman
-
-Football legend farewelled in Perth
-
-![Football legend farewelled in Perth](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/3b246b88242df32be753a6349700376bc91b74c3)
-
-1:48
-
-### Football legend farewelled in Perth
-
-Tributes for Perth couple killed in tragic accident
-
-![Tributes for Perth couple killed in tragic accident](https://static.ffx.io/images/$width_117%2C$height_66/t_crop_fill/q_86%2Cf_auto/b42f7b93fdc1ccc8d4b448b7e3482c119351be72)
-
-2:01
-
-### Tributes for Perth couple killed in tragic accident
-
-Scroll left through recommended storiesScroll right through recommended stories
 
 Ryan herself waded in to break up the scuffle, physically intervening to stop things from boiling over before police arrived.
 
