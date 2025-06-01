@@ -2,7 +2,7 @@
 title: "Chemist Warehouse family pays $22.8m for six houses to demolish them"
 categories: entrepreneur
 ---
-##Chemist Warehouse family pays $22.8m for six houses to demolish them## [The Age](https://www.theage.com.au/)
+[The Age](https://www.theage.com.au/)
 
 ##### By  [Elizabeth Redman](https://www.theage.com.au/by/elizabeth-redman-p535ya "Articles by Elizabeth Redman") and [Tawar Razaghi](https://www.theage.com.au/by/tawar-razaghi-h0xcpr "Articles by Tawar Razaghi")
 
