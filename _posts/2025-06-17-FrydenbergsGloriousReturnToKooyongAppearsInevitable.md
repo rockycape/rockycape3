@@ -11,7 +11,7 @@ Re-drawing of boundaries ahead of the 2025 federal election meant shifting elect
 
 The Liberals held their first meeting of the amalgamated Kooyong and Higgins FEC (federal electorate conference) at Malvern Town Hall on Monday night.
 
-Josh Frydenberg and Amelia Hamer with a pre-poll voter in Malvern. Rachael Dexter
+Josh Frydenberg and Amelia Hamer with a pre-poll voter in Malvern.
 For a party on its knees, what a turn-out! There were more than 440 members who showed up for the new super-sized Kooyong FEC. They included former Victorian Liberal leader (and Malvern MP) Michael O’Brien, and state members for Kew and Prahran Jess Wilson and Rachel Westaway. Legislative council member (and failed preselection candidate for Kew) David Davis was also there, as was Hawthorn MP and ex-state leader John Pesutto, whose tussle with Moira Deeming could bankrupt him.
 
 Would you believe Josh Frydenberg was also there? The man who famously lost Kooyong is now ensconced as local chairman at Goldman Sachs. No one believes he’s let go of his political ambitions (because he hasn’t). The events at the freezing Malvern Town Hall make a return to politics almost seem inevitable.
