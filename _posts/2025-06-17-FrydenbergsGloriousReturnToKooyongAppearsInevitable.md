@@ -36,3 +36,7 @@ Hamer was there at the Town Hall. There was talk that she was considering a run 
 It’s funny that these were the same people pushing Hamer as the “future of the Liberal party” only two months ago. One member said the takeaway of Tim Wilson re-taking Goldstein at the recent election was that “white men” can win in Melbourne. Never change.
 
 There’s an old joke about Victorian builders aligned with the CFMEU: if it’s raining they have the day off, if it’s too hot they can’t work, and if the conditions are fine, they’ll take a rostered-day off so they can take the family to the beach.
+
+It sometimes feels the same for the former treasurer. No matter the weather, Liberals think the answer to every problem is Frydenberg. He will lead them back to the promised land. Sussan Ley will lose, then Frydenberg will be ready to take over.
+
+But has anyone stopped to think how they got where they are in the first place?
