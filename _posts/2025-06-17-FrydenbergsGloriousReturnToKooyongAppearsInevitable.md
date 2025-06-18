@@ -4,7 +4,7 @@ categories: kooyong
 ---
 
 17th June 2025
-Rear Window by Mark Di Stefano, AFR 
+Rear Window by Mark Di Stefano, AFR  
 The former treasurer has the chess pieces in place to insert himself back into federal politics.
 
 Re-drawing of boundaries ahead of the 2025 federal election meant shifting electorates for some of Melbourne’s wealthiest suburbs. Gone was Higgins (once held by Peter Costello and Kelly O’Dwyer). The neighbouring Kooyong swallowed up the moneyed residents of Toorak, Malvern and Armadale.
