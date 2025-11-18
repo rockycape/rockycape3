@@ -1,6 +1,6 @@
 ---
 title: "Hackers steal weapons files after 'staycation' in ADF supply chain"
-categories: cyber
+categories: cybersecurity
 ---
 ## Australia's weapons programs exposed in defence industry cyber attacks
 
