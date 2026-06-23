@@ -1,3 +1,9 @@
+---
+title: "SMB with the safest memory stick format"
+categories: mac
+---
+
+
 Step 1: Choose the safest memory stick format (most important)
 
 Routers almost always have very limited SMB implementations. The goal is maximum compatibility, not modern features.
