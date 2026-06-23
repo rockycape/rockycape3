@@ -3,7 +3,6 @@ title: "Timetable"
 categories: mac
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <style>
